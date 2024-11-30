@@ -1,1 +1,7 @@
-<img src="https://github.com/oseveen/myAnilist/blob/master/Emilia%20theme/Profile%20%5BEmilia%20theme%5D.svg" width="100%" />
+<img src="https://files.catbox.moe/1779rd.png" width="1000%" />
+
+
+<div style="display: flex;">
+<a href="https://discord.com/users/1244400983962816622" ><img align="left" src="https://files.catbox.moe/jclt67.png" alt="Discord" /></a>
+<a href="https://github.com/oseveen" ><img align="right" src="https://files.catbox.moe/m1we39.png"  alt="Github" />
+</div>
