@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-<img width="38%" align="left" src="https://files.catbox.moe/ku2yd9.png" />
+<img width="43%" align="left" src="https://files.catbox.moe/ku2yd9.png" />
+</br></br>
 <img width="50%" align="right" src="https://files.catbox.moe/tghl8i.png" />
 <a href="https://discord.com/users/1244400983962816622"><img width="50%" align="right" src="https://files.catbox.moe/juwqvl.png" /></a>
 <a href="https://github.com/oseveen"><img width="50%" align="right" src="https://files.catbox.moe/8qo6yi.png" /></a>
